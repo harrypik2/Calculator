@@ -1,0 +1,24 @@
+#nut{
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    font-size: large;
+}
+#khung{
+    width: 250px;
+    height: 300px;
+    background-color: aqua;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+    top: 20px;
+}
+.ketqua{
+    width: 182px; 
+    height: 30px; 
+    background-color: white; 
+    border-radius: 3px; 
+    position: relative; 
+    margin: auto; 
+    border: 1px solid #000000;
+}
