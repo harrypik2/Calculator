@@ -13,12 +13,12 @@
     margin: auto;
     top: 20px;
 }
-.ketqua{
+.o{
     width: 180px; 
     height: 30px; 
     background-color: white; 
     border-radius: 3px; 
     position: relative; 
     margin: auto; 
-    border: 2px solid #000000;
+    border: 1px solid #000000;
 }
